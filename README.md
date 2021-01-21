@@ -4,5 +4,5 @@ Desenvolvido como prática do comunidade DIO em parceria com a GFT para o bootca
 
 ### Resultado:
 
-![Resultado do Desenvolvimento]()
+![Resultado do Desenvolvimento](https://github.com/acgoularthub/dio-project-game/blob/main/imagens/exemplo.png)
 
